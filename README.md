@@ -1,4 +1,4 @@
-# shear-layer
+# A reappraisal of streaklines in a shear layer perturbed by two waves
 The results presented in the following paper have been reproduced and critically analyzed:
 
 **"Streaklines in a shear layer perturbed by two waves"** (David R. Williams and Francis R. Hama)
